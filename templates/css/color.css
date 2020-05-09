@@ -1,0 +1,42 @@
+.berry {
+  background-color: #A10115;
+}
+.berry-text {
+  color: #A10115;
+}
+.cherry {
+  background-color: #D72C16;
+}
+.cherry-text {
+  color: #D72C16;
+}
+.chiffon {
+  background-color: #F0EFEA;
+}
+.chiffon-text {
+  color: #F0EFEA;
+}
+.smoke {
+  background-color: #C0B2B5;
+}
+.smoke-text {
+  color: #C0B2B5;
+}
+.smoke-text-darken {
+  color: #3f3436;
+}
+body {
+  background-color: #F0EFEA;
+}
+
+/*div要素全体にリンクをつけるために必要な要素*/
+.linkbox {
+  position: relative;
+}
+.linkbox a {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
